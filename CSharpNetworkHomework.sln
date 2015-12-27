@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicVideoDrawing", "DynamicVideoDrawing\DynamicVideoDrawing.csproj", "{6A92CFC5-8AAB-4F4C-BE34-7D02DEFF49DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPScanning", "IPScanning\IPScanning.csproj", "{42726ED7-E9F9-4D7F-B11C-C900CBD6D0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelMatrixCompute", "ParallelMatrixCompute\ParallelMatrixCompute.csproj", "{73F14982-D3F2-4CA6-8F63-8478BEA029A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A92CFC5-8AAB-4F4C-BE34-7D02DEFF49DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A92CFC5-8AAB-4F4C-BE34-7D02DEFF49DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A92CFC5-8AAB-4F4C-BE34-7D02DEFF49DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A92CFC5-8AAB-4F4C-BE34-7D02DEFF49DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42726ED7-E9F9-4D7F-B11C-C900CBD6D0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42726ED7-E9F9-4D7F-B11C-C900CBD6D0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42726ED7-E9F9-4D7F-B11C-C900CBD6D0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42726ED7-E9F9-4D7F-B11C-C900CBD6D0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F14982-D3F2-4CA6-8F63-8478BEA029A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F14982-D3F2-4CA6-8F63-8478BEA029A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F14982-D3F2-4CA6-8F63-8478BEA029A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F14982-D3F2-4CA6-8F63-8478BEA029A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

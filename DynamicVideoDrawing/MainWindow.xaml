@@ -1,0 +1,12 @@
+﻿<Window x:Class="DynamicVideoDrawing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DynamicVideoDrawing"
+        mc:Ignorable="d"
+        Title="视频动态绘制" Height="350" Width="525">
+    <Grid>
+        <local:VideoInkCanvas VideoSource="Ore no Imouto ga Konna ni Kawaii Wake ga Nai Opening.avi"/>
+    </Grid>
+</Window>
