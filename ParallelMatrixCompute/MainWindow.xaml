@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
         <ListBox ItemsSource="{Binding ComputeResult}"/>
         <StackPanel Grid.Row="1" Margin="0,5" Orientation="Horizontal" HorizontalAlignment="Center">
-            <Button Command="{Binding ComputeCommand}">计算</Button>
+            <Button Command="{Binding ComputeCommand}" Padding="8,4">计算</Button>
         </StackPanel>
     </Grid>
 </Window>
